@@ -1,0 +1,5 @@
+@font-face {  
+    font-family: "Futura-Medium";  
+    src: url("../fonts/Futura-Medium.ttf");
+    src: local("Futura-Medium"), url("../fonts/Futura-Medium.ttf") format("truetype");
+}
